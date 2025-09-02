@@ -42,7 +42,7 @@
             //                    | GUI | LWR | SPC | ENT | RSE  | ALT |
 
             bindings = <
-&kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BSPC  &kp LCTRL  &mt LEFT_GUI A  &mt LEFT_ALT S  &mt LEFT_CONTROL D  &mt LEFT_SHIFT F  &kp G  &kp H  &mt RIGHT_SHIFT J  &mt RIGHT_CONTROL K  &mt RIGHT_ALT L  &mt RIGHT_GUI SEMICOLON  &kp SQT  &kp LEFT_ALT  &kp Z  &lt 3 X  &mt LA(LC(LEFT_GUI)) C  &kp V  &kp B  &kp N  &kp M  &mt RA(RC(RIGHT_GUI)) COMMA  &lt 4 PERIOD  &kp SLASH  &kp ESC  &kp LGUI  &mo 1  &kp SPACE  &kp ENTER  &mo 2  &mt LEFT_SHIFT ESC
+&kp ESC  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BSPC  &kp TAB  &mt LEFT_GUI A  &mt LEFT_ALT S  &mt LEFT_CONTROL D  &mt LEFT_SHIFT F  &kp G  &kp H  &mt RIGHT_SHIFT J  &mt RIGHT_CONTROL K  &mt RIGHT_ALT L  &mt RIGHT_GUI SEMICOLON  &kp SQT  &kp LEFT_ALT  &kp Z  &lt 3 X  &mt LA(LC(LEFT_GUI)) C  &kp V  &kp B  &kp N  &kp M  &mt RA(RC(RIGHT_GUI)) COMMA  &lt 4 PERIOD  &kp SLASH  &kp RIGHT_SHIFT  &kp LGUI  &mo 1  &kp SPACE  &kp ENTER  &mo 2  &mt LEFT_SHIFT ESC
             >;
         };
 
