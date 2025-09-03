@@ -87,7 +87,7 @@
         programming {
             display-name = "code";
             bindings = <
-&kp GRAVE  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp SEMI  &kp APOS  &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_X(-100)  &mmv MOVE_Y(-100)  &mmv MOVE_UP  &mmv MOVE_RIGHT  &trans  &trans  &trans  &kp Q  &kp W  &kp R  &trans  &kp BSLH  &trans  &mkp LCLK  &mkp RCLK  &mkp MCLK  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp GRAVE  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH  &trans  &trans  &trans  &trans  &kp LG(LS(NUMBER_4))  &kp LS(LC(LG(NUMBER_4)))  &trans  &kp SEMI  &kp APOS  &kp COMMA  &kp DOT  &kp FSLH  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp Q  &kp W  &kp R  &trans  &kp BSLH  &trans  &trans  &mkp RCLK  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
