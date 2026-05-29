@@ -1,7 +1,6 @@
 ---
 include:
   - board: piantor_pro_bt_left
-      shield: nice_view
-        - board: piantor_pro_bt_right
-            shield: nice_view
-            
+    shield: nice_view
+  - board: piantor_pro_bt_right
+    shield: nice_view
