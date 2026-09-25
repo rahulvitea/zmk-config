@@ -13,7 +13,7 @@
 
 &mt {
     tapping-term-ms = <160>;
-    flavor = "tap-preferred";
+    flavor = "balanced";
 };
 
 / {
